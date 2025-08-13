@@ -2,5 +2,6 @@
 title: "First Update – Starting My Aerospace Blog"
 date: 2025-08-13
 categories: [CAD, Python]
+tags: [introduction, journey, portifolio]
 ---
 This is my first post! I’ll be using this blog to share my CAD designs, Python learning journey, and other aerospace-related projects.

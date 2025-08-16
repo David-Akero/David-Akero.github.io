@@ -1,0 +1,16 @@
+---
+title: "Week 1: Builidng with Fusion 360 & Python Foundations"
+date: 2025-08-13
+categories: [CAD, Python]
+tags: [fusion360, cad, python, data-structures, week1, portifolio-journey]
+---
+
+This week marked the firsts teps of my journey as a beginner in CAd deisgn and python programming. I explored essential concepts in computer-aided design using Fusion 360, further building my 3D modeling skills and practiced Python basics through small beginner projects. These early experiences are part of my long-term goal of creating an engineering portifolio that reflects my growth as a student, and supports my aspirations in aerospace engineering.
+
+In Fusion 360, I focused on mastering core modeling techniques and familiarizing myself with the software. The past couple days were spent on various Fusion 360 beginner projects include a lego block, a glass bottle, a complex bottle, a paper clip, and an ice tray. I practiced 2D sketches, extrusions, hollowing, lofting, fillets, and construction planes. I also learned how to apply appearances to models and use reference imaging. Although simple, these beginner projects were excellent CAD modeling practice, helping me understand how to combine features like sweeps, fit point splines, and intersecting geometry to build real-world objects, courtesy of Product Design Online's 30 day Fusion 360 tutorial. 
+
+As for my python progress, through a free Udemy Python course, I have learned Python syntax and data structures. This weeks projects included an age calculator, a custom greeting, a distance converter, a max/min finer in lists, manipuating dictionary content, and the unions, intersections, and differences of sets. These small projects have helped me practical teach myself essential coding knowledge and build confidence in my abilities, they are excellent python beginner projects. 
+
+The biggest challenge this week has been learning how to keep track of the various feautures available in both python and CAD softwares. I have come to leanr that each feautur eplays a crucial part in bringing to life ideas in the most feasible and accurate way. Through practice, I aim to integrate these skills early, developing a solid base as my journey grows more complex. I am starting to  see how these two areas come together, both requiring problem solving, creativity, and attential to detail--essential characterstics for an aspiring engineer.
+
+Next week I plan to continue building foundational skills through practical python and CAD project, and make a shift to more niched uses of each skill in aerospace engineering, particularly the visualization of data through python. As I continue this journey, I aim to keep learning engineeirng skills step by step, and build an inspiration student engineering portifolio.

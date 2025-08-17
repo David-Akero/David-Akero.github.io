@@ -1,7 +1,12 @@
 ---
-layout: default
-title: Fusion 360 - Week 1
+title: "Fusion 360 - Week 1"
+date: 2025-08-16
+categories: [CAD]
+tags: [fusion360, cad, beginner-projects, week1, portfolio-journey, aerospace-engineering]
+permalink: /fusion360-week1/
+excerpt: "Fusion 360 beginner projects — LEGO block, bottles, paper clip, and ice tray. Practicing CAD fundamentals for aerospace engineering."
 ---
+
 
 # Week 1 – Fusion 360 Beginner Projects
 

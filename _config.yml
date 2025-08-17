@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "David Akero"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Bio Photo.jpg"
   bio    : "Aspiring aerospace engineer sharing my projects and journey."
   links:
     - label: "GitHub"

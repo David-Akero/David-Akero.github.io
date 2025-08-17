@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fusion 360 - Week 1
+---
+
 # Week 1 – Fusion 360 Beginner Projects
 
 This week marks the start of my journey in **CAD design** using **Fusion 360**. I focused on short, hands-on projects to practice core design techniques, aiming to develop skills applicable to **aerospace engineering**.

@@ -31,4 +31,4 @@
 ![IceTray](/assets/images/iceTray.png)
 
 ## Project Files
-[Download All Models (.f3d)](/assets/projects/fusion360/week1/lego-block.f3d)
+[All Week 1 Fusion 360 models in one file (.f3d)](/assets/projects/fusion360/week1/allModelsWeek1.f3d)

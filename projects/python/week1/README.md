@@ -35,5 +35,5 @@ This week marks the start of my journey in **Python programming**. I focused on 
 
 ---
 
-[Week 1 Python Basic Syntax Projects](/projects/python/week1/pythonBasics_&_Syntax.py)
-[Week 1 Python Data Structures Projects](/projects/python/week1/dataStructures.py)
+1. [Week 1 Python Basic Syntax Projects](/projects/python/week1/pythonBasics_&_Syntax.py)
+2. [Week 1 Python Data Structures Projects](/projects/python/week1/dataStructures.py)

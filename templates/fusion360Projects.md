@@ -1,0 +1,33 @@
+
+---
+
+## 🔹 Fusion 360 Project README Template
+markdown
+# Week X – Fusion 360 Projects
+
+This week I continued my journey in **CAD design** using **Fusion 360**. I focused on [specific skills or project type], aiming to apply them to **aerospace-related designs**.
+
+---
+
+## Projects Completed
+1. **Project Name** – short description  
+2. **Project Name** – short description  
+3. **Project Name** – short description  
+
+---
+
+## Key Skills Practiced
+- [Skill 1]  
+- [Skill 2]  
+- [Skill 3]  
+
+---
+
+## Notes / Highlights
+- [Key lesson learned]  
+- [Favourite feature or tool discovered]  
+- [Connection to aerospace/engineering goals]  
+
+---
+
+[Download/Access Files for Week X Fusion 360 Projects](/projects/fusion360/weekX/[fileName].f3d)

@@ -1,6 +1,6 @@
 ---
 title: "Week X: [Main Focus]"
-date: YYYY-MM-DD
+date: 2025-08-25
 categories: [CAD, Python] # adjust per week
 tags: [fusion360, cad, python, beginner-projects, weekX, portfolio-journey, aerospace-engineering]
 permalink: /week-X-fusion360-python/

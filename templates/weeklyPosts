@@ -1,0 +1,51 @@
+---
+# adjust per day
+
+title: "Week X: [Main Focus]"
+date: 2025-08-25 
+categories: [CAD, Python]
+tags: [fusion360, cad, python, beginner-projects, weekX, portfolio-journey, aerospace-engineering]
+permalink: /week-X-fusion360-python/
+excerpt: "Week X: [1–2 sentence summary of focus and outcomes]"
+
+# adjust per day
+---
+
+## Introduction
+[1–2 paragraphs on what you focused on this week, why, and how it ties to aerospace/engineering journey]
+
+---
+
+## Fusion 360 — skills & deliverables
+**Time invested:** ~X hours  
+**Models completed (N):** [list models]
+
+**Core skills practiced**
+- [Skill 1]  
+- [Skill 2]  
+- [Skill 3]  
+
+**Outcomes & evidence**
+- [Main accomplishments and learnings]  
+- [Links to project files/renders]  
+
+**Visuals**
+<figure>
+  <img src="/assets/images/[filename].png" alt="[alt text]" style="max-width:800px; width:50%; height:auto;">
+  <figcaption>[caption]</figcaption>
+</figure>
+
+---
+
+## Python — skills & deliverables
+**Time invested:** ~X hours  
+**Scripts created:** [N scripts]
+
+**Concepts practiced**
+- [Concept 1]  
+- [Concept 2]  
+- [Concept 3]  
+
+**Example**
+```python
+# [short demo snippet]

@@ -1,8 +1,3 @@
----
-layout: default
-title: Week 2 – Fusion 360 & Python Projects
----
-
 # Week 2 – Fusion 360 Intermediate Features & Python Operators
 
 This week I built on my foundation by practicing **intermediate Fusion 360 design tools** and learning how **Python operators** work in coding. I focused on developing practical modeling skills and reinforcing programming fundamentals.

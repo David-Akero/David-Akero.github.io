@@ -33,4 +33,4 @@ This week I built on my foundation by practicing **intermediate Fusion 360 desig
 
 ---
 
-[Week 2 Fusion 360 Projects](/projects/fusion360/week2/projects/fusion360/week2/AllModelsWeek2.f3d)
+[Week 2 Fusion 360 Projects](/projects/fusion360/week2/AllModelsWeek2.f3d)

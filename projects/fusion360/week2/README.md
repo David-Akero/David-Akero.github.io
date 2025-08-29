@@ -1,6 +1,6 @@
-# Week 2 – Fusion 360 Intermediate Features & Python Operators
+# Week 2 – Fusion 360 Intermediate Features
 
-This week I built on my foundation by practicing **intermediate Fusion 360 design tools** and learning how **Python operators** work in coding. I focused on developing practical modeling skills and reinforcing programming fundamentals.
+This week I built on my foundation by practicing **intermediate Fusion 360 design tools** through hands-on practice building a variety of models. I learned more of the various features available in Fusion360, and a better understanding of how to apply them in complex designs.
 
 ---
 
@@ -29,8 +29,7 @@ This week I built on my foundation by practicing **intermediate Fusion 360 desig
 ## Notes / Highlights
 - Gained confidence working with **parametric revisions** and solving small errors in Fusion.  
 - Adding materials and finishes to specific regions made designs look more realistic.  
-- Practiced the **core building blocks of Python** (operators) for calculations, logic, and string handling.  
-- Time spent: ~2 hours Fusion, ~1 hour Python.  
+- Time spent: ~2 hours Fusion  
 
 ---
 

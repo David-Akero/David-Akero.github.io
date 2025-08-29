@@ -29,4 +29,4 @@ This week I explored how **operators** work in Python, focusing on their role in
 - Time spent: ~1 hour focused coding practice.  
 
 ---
-[Week 2 Operators and Expressions Projects](/projects/python/week2/oepratorsAndExpressions.py)
+[Week 2 Operators and Expressions Projects](/projects/python/week2/operatorsAndExpressions.py)

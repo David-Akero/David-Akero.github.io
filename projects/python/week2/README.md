@@ -1,7 +1,3 @@
----
-title:  Week 2 – Python Operators Practice
----
-
 # Week 2 – Python Operators Practice
 
 This week I explored how **operators** work in Python, focusing on their role in performing calculations, comparisons, and string manipulation. These exercises helped build a stronger foundation for writing functional code.

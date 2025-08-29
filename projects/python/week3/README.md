@@ -1,7 +1,3 @@
----
-title: Week 3: Completion of Python Basic Course
----
-
 # Week 3 – COmpletion of Python Basics Course
 
 This week I focused on **control flow statements**, **functions**, **exception handling**, and lastly **object-oriented prgramming** through practical, hands-on scripts. These projects marked the completion of my first python course, helping me build a solid understanding of the language and better prepare myself for the various projects to come. 

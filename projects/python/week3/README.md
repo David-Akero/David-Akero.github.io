@@ -21,17 +21,23 @@ This week I focused on **control flow statements**, **functions**, **exception h
 ---
 
 ## Key Skills Practiced
-- [Skill 1]  
-- [Skill 2]  
-- [Skill 3]  
+- How to manipulate certain code in terms of how often it should run, and under what circumstances (**control flow statements**).
+- How to create reusabe code blocks to perfomr specific, repetive tasks (**functions**).
+- How to smoothly deal with certain errors that may occur while running code (**Excpetion handling**).
+- The basics of Object Oriented Programming -- creating classes, objects, attributes, methods, inheritance, polymorphism, and encapsulation (**OOP in Python**).
 
 ---
 
 ## Notes / Highlights
-- [Insight about problem solving]  
-- [Any debugging lesson learned]  
-- [How the skill connects to aerospace/data visualization/etc.]  
+- Time Spent: ~4 hours focused coding practice
+- Each skill work well together to both complete given tasks efficiently, and handle potential errors along the well. I learned this as I continued through the course, seeing how each skill slowly built on each other, eventually working together to make one efficient program.
+- I particularly enjoyed error handling. It allows me to anticipate potential erros that could occur while running the program -- input erros, value errors, etc --- and deal with them efficiently.
+- These lessons help build my understanding of real-world application, particularly **OOP** which helps in realistic visualization.
 
 ---
 
-1. [Week X Python Basics Project](/projects/python/weekX/[fileName].py)  
+1. [Week 3 Python controlFlowStatements Project](/projects/python/weekX/controlFlowStatements.py)
+2. [Week 3 Python functionsInPython Project](/projects/python/weekX/functionInPython.py)
+3. [Week 3 Python exceptionHandling Project](/projects/python/weekX/exceptionHandling.py)
+4. [Week 3 Python objectOrientedProgramming Project](/projects/python/weekX/objectOrientedProgramming.py)
+

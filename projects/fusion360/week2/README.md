@@ -5,11 +5,9 @@ This week I built on my foundation by practicing **intermediate Fusion 360 desig
 ---
 
 ## Projects Completed
-- Fusion 360 models using polygons, mirroring, and advanced fillets  
-- Custom hole features and chamfers (tool + revolved)  
-- Embossed/debossed text for labels and decoration  
-- Combined multi-body designs with selective appearances  
-- Python scripts practicing arithmetic, conditional, and string operators  
+-  **Hexnut**
+-  **Bike grip**
+-  **Doorstop**
 
 ---
 
@@ -21,8 +19,6 @@ This week I built on my foundation by practicing **intermediate Fusion 360 desig
 - Combining multiple bodies & applying selective materials  
 - Complex fillet variations (offset, multiple layers)  
 - Organized workflow with named sketches and managed parametric timeline  
-- Arithmetic & conditional operators for calculations and logic in Python  
-- String operators for text joining and manipulation  
 
 ---
 

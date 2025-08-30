@@ -36,8 +36,8 @@ This week I focused on **control flow statements**, **functions**, **exception h
 
 ---
 
-1. [Week 3 Python controlFlowStatements Project](/projects/python/weekX/controlFlowStatements.py)
-2. [Week 3 Python functionsInPython Project](/projects/python/weekX/functionInPython.py)
-3. [Week 3 Python exceptionHandling Project](/projects/python/weekX/exceptionHandling.py)
-4. [Week 3 Python objectOrientedProgramming Project](/projects/python/weekX/objectOrientedProgramming.py)
+1. [Week 3 Python controlFlowStatements Project](/projects/python/week3/controlFlowStatements.py)
+2. [Week 3 Python functionsInPython Project](/projects/python/week3/functionInPython.py)
+3. [Week 3 Python exceptionHandling Project](/projects/python/week3/exceptionHandling.py)
+4. [Week 3 Python objectOrientedProgramming Project](/projects/python/week3/objectOrientedProgramming.py)
 

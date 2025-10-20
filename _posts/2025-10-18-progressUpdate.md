@@ -1,6 +1,6 @@
 ---
-title: "P"
-date: 2025-08-25
+title: "Progress Update: Incoming hands-on projects"
+date: 2025-10-18
 categories: [CAD, Python] 
 tags: [fusion360, cad, python, beginner-projects, week2, portfolio-journey, aerospace-engineering]
 permalink: /progressUpdate-fusion360-python/
